@@ -21,8 +21,6 @@ Amazon - Multipart Upload Overview https://docs.aws.amazon.com/en_us/AmazonS3/la
 
 IBM - Cloud Object Storage API https://console.bluemix.net/docs/services/cloud-object-storage/api-reference/about-api.html#about-the-ibm-cloud-object-storage-api
 
-VK - https://vk.com/dev/manuals
-
 JSON Schema - http://json-schema.org/latest/json-schema-core.html
 
 JetBrains Swagger API - https://opensource.zalando.com/restful-api-guidelines/
