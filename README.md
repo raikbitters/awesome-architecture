@@ -27,8 +27,10 @@ JSON Schema - http://json-schema.org/latest/json-schema-core.html
 
 JetBrains Swagger API - https://opensource.zalando.com/restful-api-guidelines/
 
-STOMT Specification - http://stomp.github.io/stomp-specification-1.1.html 
+STOMT Specification - http://stomp.github.io/stomp-specification-1.1.html
+
 Kafka Schema registry - https://docs.confluent.io/current/schema-registry/index.html
-Параметры счета в CBOSS - Атрибуты account в NX Digital BSS
+
 API от Restify на Node.js - http://restify.com/docs/request-api/
+
 RingCentral (DINO Systems?) - https://developers.ringcentral.com/api-reference/using-the-api
