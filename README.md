@@ -32,3 +32,5 @@ Kafka Schema registry - https://docs.confluent.io/current/schema-registry/index.
 API от Restify на Node.js - http://restify.com/docs/request-api/
 
 RingCentral (DINO Systems?) - https://developers.ringcentral.com/api-reference/using-the-api
+
+Google API Design Guide - https://cloud.google.com/apis/design
