@@ -1,5 +1,5 @@
 # Arch-guide
-Architecture guideline, patterns and best practice
+Software architecture guideline, patterns and best practice.
 
 ## API
 ### API Guide
