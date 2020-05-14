@@ -1,13 +1,13 @@
 # Arch-guide
 Architecture guide
 
+## API Guidelines
+* Zalando RESTful API API - https://opensource.zalando.com/restful-api-guidelines/
+
 ## Unsorted
 Статья по паттернам интеграции https://www.enterpriseintegrationpatterns.com/patterns/messaging/
 Особенности GraphQL https://m.habr.com/post/425041/
 Формирование plantUML диаграмм по swagger модели данных: https://github.com/nlohmann/swagger_to_uml
-
-## API
-
 Moesif - API Design Patterns and Best Practices https://www.moesif.com/blog/api-guide/api-design-guidelines/
 
 Microsoft - Проектирование API https://docs.microsoft.com/ru-ru/azure/architecture/best-practices/api-design 
@@ -23,7 +23,7 @@ IBM - Cloud Object Storage API https://console.bluemix.net/docs/services/cloud-o
 
 JSON Schema - http://json-schema.org/latest/json-schema-core.html
 
-JetBrains Swagger API - https://opensource.zalando.com/restful-api-guidelines/
+
 
 STOMT Specification - http://stomp.github.io/stomp-specification-1.1.html
 
