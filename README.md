@@ -2,7 +2,7 @@
 Architecture guide
 
 ## API Guidelines
-* Zalando RESTful API API - https://opensource.zalando.com/restful-api-guidelines/
+* Zalando RESTful API - https://opensource.zalando.com/restful-api-guidelines/
 
 ## Unsorted
 Статья по паттернам интеграции https://www.enterpriseintegrationpatterns.com/patterns/messaging/
