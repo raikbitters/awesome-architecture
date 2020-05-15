@@ -1,4 +1,4 @@
-# Arch-guide
+# Architecture guide
 Software architecture guideline, patterns and best practice.
 
 ## API
