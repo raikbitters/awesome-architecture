@@ -5,6 +5,7 @@ Software architecture guideline, patterns and best practice.
 ### API Guide
 * [Zalando RESTful API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 * [Google API Design Guide](https://cloud.google.com/apis/design)
+* [adidas API Guidelines](https://adidas.gitbook.io/api-guidelines/)
 
 ### API Best-practice
 * [Google Cloud API versioning](https://cloud.google.com/blog/products/gcp/api-design-which-version-of-versioning-is-right-for-you)
