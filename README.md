@@ -1,6 +1,9 @@
 # Architecture guide
 Software architecture guideline, patterns and best practice.
 
+## Architecture pattern
+* [IBM Garage Event-Driven Reference Architecture](https://ibm-cloud-architecture.github.io/refarch-eda/)
+
 ## API
 ### API Guide
 * [Zalando RESTful API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
