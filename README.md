@@ -15,7 +15,7 @@ Software architecture guideline, patterns and best practice.
 * [Moesif - API Design Patterns and Best Practices](https://www.moesif.com/blog/api-guide/api-design-guidelines/)
 
 ## Software
-[The twelve-factor app](https://12factor.net)
+* [The twelve-factor app](https://12factor.net)
 
 ## Unsorted
 * Статья по паттернам интеграции https://www.enterpriseintegrationpatterns.com/patterns/messaging/
