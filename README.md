@@ -14,6 +14,9 @@ Software architecture guideline, patterns and best practice.
 * [Google Cloud API versioning](https://cloud.google.com/blog/products/gcp/api-design-which-version-of-versioning-is-right-for-you)
 * [Moesif - API Design Patterns and Best Practices](https://www.moesif.com/blog/api-guide/api-design-guidelines/)
 
+## Software
+[The twelve-factor app](https://12factor.net)
+
 ## Unsorted
 * Статья по паттернам интеграции https://www.enterpriseintegrationpatterns.com/patterns/messaging/
 * Особенности GraphQL https://m.habr.com/post/425041/
