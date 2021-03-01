@@ -17,7 +17,7 @@ Software architecture guideline, patterns and best practice.
 
 - [IBM Garage Event-Driven Reference Architecture](https://ibm-cloud-architecture.github.io/refarch-eda)
 - [The “4+1” View Model of Software Architecture](docs/4+1view-architecture.pdf)
-- [Architecture_decision_record overview](https://github.com/joelparkerhenderson/architecture_decision_record)
+- [Architecture decision record tamplates](https://github.com/joelparkerhenderson/architecture_decision_record)
 - [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
 ## API
