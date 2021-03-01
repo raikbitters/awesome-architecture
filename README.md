@@ -1,4 +1,4 @@
-# Architecture guide
+# Architecture awesome
 
 - [Architecture guide](#architecture-guide)
   - [Overview](#overview)
@@ -13,10 +13,12 @@
 
 Software architecture guideline, patterns and best practice.
 
-## Architectural blueprints
+## Architectural guidelines
 
-- [IBM Garage Event-Driven Reference Architecture](https://ibm-cloud-architecture.github.io/refarch-eda/)
+- [IBM Garage Event-Driven Reference Architecture](https://ibm-cloud-architecture.github.io/refarch-eda)
 - [The “4+1” View Model of Software Architecture](docs/4+1view-architecture.pdf)
+- [Architecture_decision_record overview](https://github.com/joelparkerhenderson/architecture_decision_record)
+- [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
 ## API
 
