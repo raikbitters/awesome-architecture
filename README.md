@@ -4,9 +4,7 @@
   - [Overview](#overview)
   - [Architectural blueprints](#architectural-blueprints)
   - [API](#api)
-    - [API Guide](#api-guide)
-    - [API Best-practice](#api-best-practice)
-  - [Software](#software)
+  - [Software Design Guidelines](#software-design-guidelines)
   - [Unsorted](#unsorted)
 
 ## Overview
