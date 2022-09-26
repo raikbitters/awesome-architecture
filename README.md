@@ -2,9 +2,10 @@
 
 - [Architecture guide](#architecture-guide)
   - [Overview](#overview)
-  - [Architectural blueprints](#architectural-blueprints)
+  - [Architectural guidelines](#architectural-guidelines)
   - [API](#api)
-  - [Software Design Guidelines](#software-design-guidelines)
+  - [Software Design](#software)
+  - [Database](#database)
   - [Unsorted](#unsorted)
 
 ## Overview
@@ -38,9 +39,13 @@ Software architecture guideline, patterns and best practice.
 - [Learn GraphQL](https://graphql.org/learn)
 - [Principled GraphQL](https://principledgraphql.com)
 
-## Software Design Guidelines
+## Software
 
 - [The twelve-factor app](https://12factor.net)
+
+## Database
+
+- [SQL Style Guide](https://www.sqlstyle.guide)
 
 ## Unsorted
 
