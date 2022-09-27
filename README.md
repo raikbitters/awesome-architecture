@@ -42,6 +42,8 @@ Software architecture guideline, patterns and best practice.
 ## Software
 
 - [The twelve-factor app](https://12factor.net)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
 ## Database
 
