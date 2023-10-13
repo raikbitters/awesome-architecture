@@ -10,7 +10,7 @@
 
 ## Overview
 
-Software architecture guideline, patterns and best practice.
+Software architecture guidelines, patterns, and best practices.
 
 ## Architectural guidelines
 
@@ -19,6 +19,7 @@ Software architecture guideline, patterns and best practice.
 - [Homepage of the ADR GitHub organization](https://adr.github.io/)
 - [Architecture decision record tamplates](https://github.com/joelparkerhenderson/architecture_decision_record)
 - [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Enterprice Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
 
 ## API
 
@@ -50,10 +51,13 @@ Software architecture guideline, patterns and best practice.
 
 - [SQL Style Guide](https://www.sqlstyle.guide)
 
+## Tools
+
+- []()
+- [Convert OpenAPI to PlantUML](https://github.com/nlohmann/swagger_to_uml)
+
 ## Unsorted
 
-- Статья по паттернам интеграции https://www.enterpriseintegrationpatterns.com/patterns/messaging/
-- Формирование plantUML диаграмм по swagger модели данных: https://github.com/nlohmann/swagger_to_uml
 - Amazon - Multipart Upload Overview https://docs.aws.amazon.com/en_us/AmazonS3/latest/dev/mpuoverview.html
 - IBM - Cloud Object Storage API https://console.bluemix.net/docs/services/cloud-object-storage/api-reference/about-api.html#about-the-ibm-cloud-object-storage-api
 - JSON Schema - http://json-schema.org/latest/json-schema-core.html
