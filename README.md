@@ -3,10 +3,11 @@
 - [Architecture guide](#architecture-guide)
   - [Overview](#overview)
   - [Architectural guidelines](#architectural-guidelines)
+  - [Event-Driven Architectures](#event-driven-architectures)
   - [API](#api)
   - [Software Design](#software)
   - [Database](#database)
-  - [Unsorted](#unsorted)
+  - [Tools and Specifications](#tools-&&-specifications)
 
 ## Overview
 
