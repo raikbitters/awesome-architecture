@@ -7,7 +7,7 @@
   - [API](#api)
   - [Software Design](#software)
   - [Database](#database)
-  - [Tools and Specifications](#tools-&&-specifications)
+  - [Tools and Specifications](#tools--specifications)
 
 ## Overview
 
