@@ -23,7 +23,7 @@ Software architecture guidelines, patterns, and best practices.
 - [﻿Enterprice Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
 - [﻿IBM Garage Event-Driven Reference Architecture](https://ibm-cloud-architecture.github.io/refarch-eda)
 - [﻿Kafka Schema registry](https://docs.confluent.io/platform/current/schema-registry/index.)
-- [Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#the_modular_monolith)
+- [Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
 
 ## REST
 
